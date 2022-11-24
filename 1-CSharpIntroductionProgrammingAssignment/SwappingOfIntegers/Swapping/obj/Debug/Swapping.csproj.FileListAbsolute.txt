@@ -1,0 +1,16 @@
+D:\.NET\Bench Practice\Swapping\Swapping\bin\Debug\Swapping.exe.config
+D:\.NET\Bench Practice\Swapping\Swapping\bin\Debug\Swapping.exe
+D:\.NET\Bench Practice\Swapping\Swapping\bin\Debug\Swapping.pdb
+D:\.NET\Bench Practice\Swapping\Swapping\obj\Debug\Swapping.csproj.AssemblyReference.cache
+D:\.NET\Bench Practice\Swapping\Swapping\obj\Debug\Swapping.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Bench Practice\Swapping\Swapping\obj\Debug\Swapping.csproj.CoreCompileInputs.cache
+D:\.NET\Bench Practice\Swapping\Swapping\obj\Debug\Swapping.exe
+D:\.NET\Bench Practice\Swapping\Swapping\obj\Debug\Swapping.pdb
+C:\Users\vtu12\OneDrive\Desktop\Assignment--1\SwappingOfIntegers\Swapping\bin\Debug\Swapping.exe.config
+C:\Users\vtu12\OneDrive\Desktop\Assignment--1\SwappingOfIntegers\Swapping\bin\Debug\Swapping.exe
+C:\Users\vtu12\OneDrive\Desktop\Assignment--1\SwappingOfIntegers\Swapping\bin\Debug\Swapping.pdb
+C:\Users\vtu12\OneDrive\Desktop\Assignment--1\SwappingOfIntegers\Swapping\obj\Debug\Swapping.csproj.AssemblyReference.cache
+C:\Users\vtu12\OneDrive\Desktop\Assignment--1\SwappingOfIntegers\Swapping\obj\Debug\Swapping.csproj.SuggestedBindingRedirects.cache
+C:\Users\vtu12\OneDrive\Desktop\Assignment--1\SwappingOfIntegers\Swapping\obj\Debug\Swapping.csproj.CoreCompileInputs.cache
+C:\Users\vtu12\OneDrive\Desktop\Assignment--1\SwappingOfIntegers\Swapping\obj\Debug\Swapping.exe
+C:\Users\vtu12\OneDrive\Desktop\Assignment--1\SwappingOfIntegers\Swapping\obj\Debug\Swapping.pdb

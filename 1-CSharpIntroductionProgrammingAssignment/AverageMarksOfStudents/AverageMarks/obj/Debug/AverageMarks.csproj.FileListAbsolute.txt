@@ -1,0 +1,16 @@
+D:\.NET\Bench Practice\AverageMarks\AverageMarks\bin\Debug\AverageMarks.exe.config
+D:\.NET\Bench Practice\AverageMarks\AverageMarks\bin\Debug\AverageMarks.exe
+D:\.NET\Bench Practice\AverageMarks\AverageMarks\bin\Debug\AverageMarks.pdb
+D:\.NET\Bench Practice\AverageMarks\AverageMarks\obj\Debug\AverageMarks.csproj.AssemblyReference.cache
+D:\.NET\Bench Practice\AverageMarks\AverageMarks\obj\Debug\AverageMarks.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Bench Practice\AverageMarks\AverageMarks\obj\Debug\AverageMarks.csproj.CoreCompileInputs.cache
+D:\.NET\Bench Practice\AverageMarks\AverageMarks\obj\Debug\AverageMarks.exe
+D:\.NET\Bench Practice\AverageMarks\AverageMarks\obj\Debug\AverageMarks.pdb
+C:\Users\vtu12\OneDrive\Desktop\Assignment--1\AverageMarksStudents\AverageMarks\bin\Debug\AverageMarks.exe.config
+C:\Users\vtu12\OneDrive\Desktop\Assignment--1\AverageMarksStudents\AverageMarks\bin\Debug\AverageMarks.exe
+C:\Users\vtu12\OneDrive\Desktop\Assignment--1\AverageMarksStudents\AverageMarks\bin\Debug\AverageMarks.pdb
+C:\Users\vtu12\OneDrive\Desktop\Assignment--1\AverageMarksStudents\AverageMarks\obj\Debug\AverageMarks.csproj.AssemblyReference.cache
+C:\Users\vtu12\OneDrive\Desktop\Assignment--1\AverageMarksStudents\AverageMarks\obj\Debug\AverageMarks.csproj.SuggestedBindingRedirects.cache
+C:\Users\vtu12\OneDrive\Desktop\Assignment--1\AverageMarksStudents\AverageMarks\obj\Debug\AverageMarks.csproj.CoreCompileInputs.cache
+C:\Users\vtu12\OneDrive\Desktop\Assignment--1\AverageMarksStudents\AverageMarks\obj\Debug\AverageMarks.exe
+C:\Users\vtu12\OneDrive\Desktop\Assignment--1\AverageMarksStudents\AverageMarks\obj\Debug\AverageMarks.pdb

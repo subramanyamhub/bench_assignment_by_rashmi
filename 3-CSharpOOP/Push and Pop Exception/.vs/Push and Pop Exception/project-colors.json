@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "006be8ae-e02e-4b04-a0d9-298d13752b45": {
+      "ProjectGuid": "006be8ae-e02e-4b04-a0d9-298d13752b45",
+      "DisplayName": "Push and Pop Exception",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

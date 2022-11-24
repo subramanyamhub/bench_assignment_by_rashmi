@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b256384-d149-4757-a1c9-2b878efb77ea": {
+      "ProjectGuid": "9b256384-d149-4757-a1c9-2b878efb77ea",
+      "DisplayName": "Sum of Integers Array",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

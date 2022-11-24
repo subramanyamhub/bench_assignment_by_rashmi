@@ -1,0 +1,16 @@
+D:\.NET\Bench Practice\Push and Pop Exception\Push and Pop Exception\bin\Debug\Push and Pop Exception.exe.config
+D:\.NET\Bench Practice\Push and Pop Exception\Push and Pop Exception\bin\Debug\Push and Pop Exception.exe
+D:\.NET\Bench Practice\Push and Pop Exception\Push and Pop Exception\bin\Debug\Push and Pop Exception.pdb
+D:\.NET\Bench Practice\Push and Pop Exception\Push and Pop Exception\obj\Debug\Push and Pop Exception.csproj.AssemblyReference.cache
+D:\.NET\Bench Practice\Push and Pop Exception\Push and Pop Exception\obj\Debug\Push and Pop Exception.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Bench Practice\Push and Pop Exception\Push and Pop Exception\obj\Debug\Push and Pop Exception.csproj.CoreCompileInputs.cache
+D:\.NET\Bench Practice\Push and Pop Exception\Push and Pop Exception\obj\Debug\Push and Pop Exception.exe
+D:\.NET\Bench Practice\Push and Pop Exception\Push and Pop Exception\obj\Debug\Push and Pop Exception.pdb
+C:\Users\vtu12\OneDrive\Desktop\Tasks\Assignment 3\Push and Pop Exception\Push and Pop Exception\bin\Debug\Push and Pop Exception.exe.config
+C:\Users\vtu12\OneDrive\Desktop\Tasks\Assignment 3\Push and Pop Exception\Push and Pop Exception\bin\Debug\Push and Pop Exception.exe
+C:\Users\vtu12\OneDrive\Desktop\Tasks\Assignment 3\Push and Pop Exception\Push and Pop Exception\bin\Debug\Push and Pop Exception.pdb
+C:\Users\vtu12\OneDrive\Desktop\Tasks\Assignment 3\Push and Pop Exception\Push and Pop Exception\obj\Debug\Push and Pop Exception.csproj.AssemblyReference.cache
+C:\Users\vtu12\OneDrive\Desktop\Tasks\Assignment 3\Push and Pop Exception\Push and Pop Exception\obj\Debug\Push and Pop Exception.csproj.SuggestedBindingRedirects.cache
+C:\Users\vtu12\OneDrive\Desktop\Tasks\Assignment 3\Push and Pop Exception\Push and Pop Exception\obj\Debug\Push and Pop Exception.csproj.CoreCompileInputs.cache
+C:\Users\vtu12\OneDrive\Desktop\Tasks\Assignment 3\Push and Pop Exception\Push and Pop Exception\obj\Debug\Push and Pop Exception.exe
+C:\Users\vtu12\OneDrive\Desktop\Tasks\Assignment 3\Push and Pop Exception\Push and Pop Exception\obj\Debug\Push and Pop Exception.pdb
